@@ -1,2 +1,2 @@
-# NarrateKit
-This is a Unity Asset of TextSystem
+# NarrateKitについて
+NarrateKitはUnityで使うストーリーシステムを拡張パッケージです。
