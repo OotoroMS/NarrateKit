@@ -1,2 +1,2 @@
 # NarrateKitについて
-NarrateKitはUnityで使うストーリーシステムを拡張パッケージです。
+NarrateKitはUnityで使うストーリーシステムを拡張するパッケージです。
